@@ -150,3 +150,4 @@
 - [系统内存磁盘统计开源仓库 完整源码内存磁盘使用率采集](https://github.com/hannahwood72/MomJNk/commit/1982e0942c97c61f58db29d400991b4983e7fadd)
 - [微短剧风口走向尾声，新人入局很难分到红利](https://github.com/hannahwood72/MomJNk/commit/ce446ab81d7882159b8f154624b9fb68c4b25f95)
 - [科普基础设施建设，全民科学素质提升](https://github.com/hannahwood72/MomJNk/commit/af572b6cd56b9402d72e6072ebcfc5ac9c1f1e79)
+- [k8s cronjob任务配置导出，导出全部定时任务cronjob完整配置](https://github.com/hannahwood72/MomJNk/commit/15dc00c029988329234c3de293cb9c6fc6481344)
