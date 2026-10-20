@@ -68,3 +68,4 @@
 - [延时任务队列源码 完整源码延时任务到期自动执行](https://github.com/hannahwood72/MomJNk/commit/9cb0285e7efb435b346bd4cb2f3ce3ee17c127f8)
 - [多模态大模型工业化落地，图文音视频融合风险](https://github.com/hannahwood72/MomJNk/commit/e2b74d4d15c35d23fedfc62e61aa91948c9c7279)
 - [银行利润有所修复，存款利率很难回到从前](https://github.com/hannahwood72/MomJNk/commit/3cb80cd3e91b2f62bca19f0c5d3283af037e9b2e)
+- [github pr基础分支批量修改，批量更新pr的目标基础分支](https://github.com/hannahwood72/MomJNk/commit/b88dcc3b856309f80975499a2368f3dc589e46c6)
