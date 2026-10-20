@@ -100,3 +100,4 @@
 - [产业集群发展，集群内部配套小企业生存压力突出](https://github.com/hannahwood72/MomJNk/commit/9b0c34c0d74d37534c845ba754c5a9c8a6f62605)
 - [卫星遥感大模型，地物变化实时检测工程难点](https://github.com/hannahwood72/MomJNk/commit/1173085692df9f62794cef8abd7712ce5d069f99)
 - [脑机接口民用试点，康复医疗应用前景与隐患](https://github.com/hannahwood72/MomJNk/commit/b462b801bc8f1f065c03de484c12697bc8d0d2f8)
+- [请求转发模拟开源仓库 可运行源码支持代理调试场景](https://github.com/hannahwood72/MomJNk/commit/86fc2271d7bfc7cdc99ffde49200c6801fc5adc9)
