@@ -118,3 +118,4 @@
 - [企业生存压力加大，会倒逼行业加速优胜劣汰](https://github.com/hannahwood72/MomJNk/commit/9cec9a1b1e07fdba89c680376d1642a2f433985c)
 - [镜像站点被百度抓取但不展示摘要处理](https://github.com/hannahwood72/MomJNk/commit/79d00987ef6829e056846fc348947bd64b288be0)
 - [网络 IO 流量统计工程 完整源码采集网卡收发流量数据](https://github.com/hannahwood72/MomJNk/commit/7037b836af96b2df1dd37063482b767ebbc39545)
+- [房租涨跌两极分化，普通人无处躲避压力](https://github.com/hannahwood72/MomJNk/commit/feb4a211679417a8bc96fb068b10359f981d2c79)
