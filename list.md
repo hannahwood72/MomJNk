@@ -42,3 +42,4 @@
 - [程序员岗位焦虑，AI编码工具对岗位真实冲击](https://github.com/hannahwood72/MomJNk/commit/44374874e2c5d421bf31c2dc0d202c4f85305eee)
 - [MCP Server第三方组件供应链投毒风险](https://github.com/hannahwood72/MomJNk/commit/9074a9f5150c1cd35e39ebea721caf59bb904c03)
 - [人形机器人产业链，软件栈滞后硬件发展现状](https://github.com/hannahwood72/MomJNk/commit/120af84315c4d440e1530ca7cfbf7b8fb99ab70b)
+- [咖啡茶饮下沉市场厮杀品牌争夺县城消费用户群体](https://github.com/hannahwood72/MomJNk/commit/81d0bd7ccdd296c4ffba5197b1ebd979f54d6462)
