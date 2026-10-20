@@ -52,3 +52,4 @@
 - [户籍与公共服务进一步脱钩，新市民权益保障](https://github.com/hannahwood72/MomJNk/commit/b60386d5080e788cd0a308ed71f65be1dc822905)
 - [极简脚本工具开源合集 完整源码适配多种业务系统集成](https://github.com/hannahwood72/MomJNk/commit/dd59dc5d69e13a393975e9892fa8b0709788820d)
 - [资本市场的长期健康，离不开上市公司质量提升](https://github.com/hannahwood72/MomJNk/commit/011b3b970edd55b9d4694a21cab04bc1a3c7c477)
+- [可二次重构开源项目仓库 源码资源配套业务改造手册](https://github.com/hannahwood72/MomJNk/commit/d9138d5d86716a79c1d6b4815a1297c3183f10cc)
