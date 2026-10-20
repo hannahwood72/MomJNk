@@ -31,3 +31,4 @@
 - [高效练手 Demo 实战开源源码合集 完整工程附带二次开发样例](https://github.com/hannahwood72/MomJNk/commit/b9ed262b3c888642b84c4e90a8545daaad7a1f1b)
 - [异步任务处理开源源码 完整源码展示异步执行完整流程](https://github.com/hannahwood72/MomJNk/commit/4817fa3421a47b4d1ab176006fe9d4a6b1b9696f)
 - [贸易壁垒与反倾销增多中国制造出海如何应对挑战](https://github.com/hannahwood72/MomJNk/commit/80ec318283ed4ff29e03dd10c61eb13066304052)
+- [视频批量抽帧生成gif，自定义间隔抽帧输出gif动图](https://github.com/hannahwood72/MomJNk/commit/7b4b459bded7c4421532bf354b8d2d46524b0292)
