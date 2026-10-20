@@ -192,3 +192,4 @@
 - [老人投资理财要警惕哪些高息养老理财骗局](https://github.com/hannahwood72/MomJNk/commit/8ac11da023ef7b636d6be20660666cdd019950b8)
 - [本地csv列顺序批量调整，自由调换csv各列前后顺序](https://github.com/hannahwood72/MomJNk/commit/2e0317916501639cda4bfbbdaad5384237761922)
 - [内网消息机器人，对接多渠道消息统一发送告警通知](https://github.com/hannahwood72/MomJNk/commit/e1379d987219678e2badda7e718d0117432ae2eb)
+- [防 SQL 注入编码示例开源仓库 完整源码安全编写 SQL 参考](https://github.com/hannahwood72/MomJNk/commit/4eb2acb99e875a86c98481c84274714c59ac9e9a)
