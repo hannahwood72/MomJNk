@@ -73,3 +73,4 @@
 - [行业信创订单爆发信创从党政市场向全行业扩散分析](https://github.com/hannahwood72/MomJNk/commit/97d6d567275aaf00d9fd704de3de053c963ac86b)
 - [代码解释器开源实现，沙箱隔离安全实现难点](https://github.com/hannahwood72/MomJNk/commit/259526069deb6b40b27b536b46deaebc61932c20)
 - [二手车流通政策放开二手车市场规模迎来快速扩张](https://github.com/hannahwood72/MomJNk/commit/f13e6eae44e7e953d960ad0b2c119906e68c20b8)
+- [GitHub 数据自动化开源资源 可运行源码与本地落地实施手册](https://github.com/hannahwood72/MomJNk/commit/505ce75c6470ff0695d5c90b793582dedc746bfb)
