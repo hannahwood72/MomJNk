@@ -26,3 +26,4 @@
 - [漏桶限流算法源码 完整源码漏桶限流完整实现](https://github.com/hannahwood72/MomJNk/commit/763f518ee76761e8315b90a9def1d8037227f6ff)
 - [git notes多命名空间导出，导出git notes全部命名空间注释](https://github.com/hannahwood72/MomJNk/commit/26b7d09fe1b066122cf1fce0b3a518b6e6852d4b)
 - [港股小幅修复反弹，切莫错把反弹当成牛市](https://github.com/hannahwood72/MomJNk/commit/421094964043fab46c5f136cd0a04d734e6cb09d)
+- [产业升级，不是简单淘汰传统产业，而是改造升级](https://github.com/hannahwood72/MomJNk/commit/e293e50c9d4923c64ec569b895cf27fe04c70cc4)
