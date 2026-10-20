@@ -152,3 +152,4 @@
 - [科普基础设施建设，全民科学素质提升](https://github.com/hannahwood72/MomJNk/commit/af572b6cd56b9402d72e6072ebcfc5ac9c1f1e79)
 - [k8s cronjob任务配置导出，导出全部定时任务cronjob完整配置](https://github.com/hannahwood72/MomJNk/commit/15dc00c029988329234c3de293cb9c6fc6481344)
 - [废旧电子产品回收乱象治理难点](https://github.com/hannahwood72/MomJNk/commit/010c6ba4499d0340cc00855dbf9a03732ac46b12)
+- [极简轻量开源工具源码合集 完整源码搭配业务集成演示](https://github.com/hannahwood72/MomJNk/commit/a88d10a5916285052f33f6fb86dda613993e002d)
