@@ -88,3 +88,4 @@
 - [非婚生育权益保障，公共服务制度适配调整](https://github.com/hannahwood72/MomJNk/commit/eca09d9386a3a0f5c8531c5a044ee3a90c017417)
 - [时区差异跨国协作，跨时区PR review效率低下](https://github.com/hannahwood72/MomJNk/commit/6b7f37ac074d23d3cefd76afde56be16f3a3cdf6)
 - [5G‑A技术商用，工业互联网、低时延业务落地](https://github.com/hannahwood72/MomJNk/commit/e0ef4d60f2c24b9e8980fcf34fd793f2b4a19428)
+- [公共充电网络全覆盖，老旧小区充电改造难题](https://github.com/hannahwood72/MomJNk/commit/bbea253027df6a55a6518b6097c99443ebb3f5b0)
