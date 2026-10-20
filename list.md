@@ -19,3 +19,4 @@
 - [智慧社区人脸识别治理，个人生物信息保护](https://github.com/hannahwood72/MomJNk/commit/9b96b04cd2aa65360a6de9adca0cdbd9f9d54fac)
 - [VitePress 生成 Sitemap 实现百度快速收录实操](https://github.com/hannahwood72/MomJNk/commit/e06c6cb39fc2d5ac815046a36c04b1829e964546)
 - [网关过滤器链 Demo 完整源码请求过滤器链式处理](https://github.com/hannahwood72/MomJNk/commit/0647b045f5b6914bbe91291fb520155536d4c065)
+- [外贸数据屡创新高，底层从业者很难分享收益](https://github.com/hannahwood72/MomJNk/commit/ad54975ecaf0346db82005bc9aae571bc287416d)
