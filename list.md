@@ -109,3 +109,4 @@
 - [GitHub 开源项目补充实际项目落地案例](https://github.com/hannahwood72/MomJNk/commit/932dca78a518d9e8bb10afb1ccdc9a65adbbbd32)
 - [Passkey无密码认证推广，老旧设备兼容硬伤](https://github.com/hannahwood72/MomJNk/commit/b2bafdcc07a3c5871a94a9b35c51d645281ae9fe)
 - [数据要素市场化提速数据确权交易产业迎来新机遇](https://github.com/hannahwood72/MomJNk/commit/95e0aca0f70a5b6a27b0e07dafae9b03ec177f5f)
+- [AI项目真实收益评估，摒弃跑分侧重业务指标](https://github.com/hannahwood72/MomJNk/commit/f1fc913e636f2554992188ab1a59539e494356db)
