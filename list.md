@@ -106,3 +106,4 @@
 - [yaml多行字符串转普通行，将yaml多行字面量转为普通单行值](https://github.com/hannahwood72/MomJNk/commit/6f8946c98bcf3976219714cafe041f974330f084)
 - [全栈接口 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/hannahwood72/MomJNk/commit/cf096e15951e85e7728e6df029d4b207ddf03a81)
 - [邮件本地批量处理工具，批量解析邮件提取附件导出归档](https://github.com/hannahwood72/MomJNk/commit/990c7774fe86761b8837f6dafc440e20c0bf5120)
+- [GitHub 开源项目补充实际项目落地案例](https://github.com/hannahwood72/MomJNk/commit/932dca78a518d9e8bb10afb1ccdc9a65adbbbd32)
