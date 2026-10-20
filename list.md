@@ -54,3 +54,4 @@
 - [资本市场的长期健康，离不开上市公司质量提升](https://github.com/hannahwood72/MomJNk/commit/011b3b970edd55b9d4694a21cab04bc1a3c7c477)
 - [可二次重构开源项目仓库 源码资源配套业务改造手册](https://github.com/hannahwood72/MomJNk/commit/d9138d5d86716a79c1d6b4815a1297c3183f10cc)
 - [Agent工具集热更新，无需重启工作流变更工具](https://github.com/hannahwood72/MomJNk/commit/65a11fe891312bc6924c6ff311304be9318bdfa3)
+- [简易 http 静态资源缓存开源仓库 完整源码静态文件缓存控制](https://github.com/hannahwood72/MomJNk/commit/5a14c27e3bc4dcfd72313d0ee0b4d4f3b8ff71a4)
