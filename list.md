@@ -14,3 +14,4 @@
 - [curl转python aiohttp代码，curl命令自动转换aiohttp异步请求代码](https://github.com/hannahwood72/MomJNk/commit/da742df56b5307aba5a482ce708a620ec7fb6667)
 - [彩礼治理移风易俗乡村推进难点](https://github.com/hannahwood72/MomJNk/commit/3a72acdd7a2796c27d8e73ec7ae5d1b2e8c13a5d)
 - [简易动态代理 Demo 完整源码实现动态代理基础逻辑](https://github.com/hannahwood72/MomJNk/commit/6da3b9782baa41ac654d33182b01fe694c3015e3)
+- [AI项目失败复盘，大量AI试点无法规模化根因](https://github.com/hannahwood72/MomJNk/commit/70aa81fc06c25fcdb5420dbb4082ba2f944e8556)
