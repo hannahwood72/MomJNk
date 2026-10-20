@@ -120,3 +120,4 @@
 - [网络 IO 流量统计工程 完整源码采集网卡收发流量数据](https://github.com/hannahwood72/MomJNk/commit/7037b836af96b2df1dd37063482b767ebbc39545)
 - [房租涨跌两极分化，普通人无处躲避压力](https://github.com/hannahwood72/MomJNk/commit/feb4a211679417a8bc96fb068b10359f981d2c79)
 - [单体不要盲目拆微服务，很多业务本不需要微服务](https://github.com/hannahwood72/MomJNk/commit/a6f7e91e205776c37d929704b9b2ac210fb18456)
+- [大模型请求代理中间件，日志记录请求缓存失败重试转发](https://github.com/hannahwood72/MomJNk/commit/c236fee6c393f1b037899999fef35c7d5ab706a0)
