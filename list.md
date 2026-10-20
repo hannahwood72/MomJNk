@@ -38,3 +38,4 @@
 - [中文文本重复语句过滤工具，过滤文本重复语句保留原文序](https://github.com/hannahwood72/MomJNk/commit/c65e840ad9a3e674477570b8c8be2a7e3c685a89)
 - [内网横向移动攻击，零信任如何限制扩散](https://github.com/hannahwood72/MomJNk/commit/d31c6e18bbf5ee0a13983bd80b8b7ff6d55c66af)
 - [协程池实现工程 完整源码协程复用任务调度逻辑](https://github.com/hannahwood72/MomJNk/commit/e7b94496cc2ffedad0d0ecf8d4ef69f43e1eb6c1)
+- [家用AI安防设备规范严防监控数据泄露](https://github.com/hannahwood72/MomJNk/commit/e548841d11a732931c21bf668c1ae8c6c1173468)
