@@ -94,3 +94,4 @@
 - [水电气表乱加价，遇到不合理收费投诉渠道](https://github.com/hannahwood72/MomJNk/commit/650e0deaf882d612584f9f23e9fc5607ae9f7c3a)
 - [应用运行状态指标采集源码 完整源码采集内存 CPU 线程指标](https://github.com/hannahwood72/MomJNk/commit/3b236bfd2dd08afd33bccf396a96f1dc87febeef)
 - [实体经济的利润空间，受到上游原材料成本挤压](https://github.com/hannahwood72/MomJNk/commit/6678331dc16f20409cc34424a5cebc75ddc31861)
+- [模块化接口开源项目 快速上手配置与模拟请求样例](https://github.com/hannahwood72/MomJNk/commit/eab240daa32b34be5fe2870f76dc2d8c5cedb18a)
