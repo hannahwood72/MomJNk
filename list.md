@@ -61,3 +61,4 @@
 - [开源实战参考工具集 完整实现搭配多场景部署示例](https://github.com/hannahwood72/MomJNk/commit/4ab7baa85fe6aec81d64f1ba4ad776427298c550)
 - [图片格式批量转换源码 完整源码 png jpg webp 互相转换](https://github.com/hannahwood72/MomJNk/commit/50fe4be7d7c1fad714a5f87a00d7618dafdc0e2a)
 - [github用户followers粉丝列表导出，导出粉丝用户名关注时间](https://github.com/hannahwood72/MomJNk/commit/a80ec1abf94b754418a34599f7522140e6c9366d)
+- [url相对路径转绝对路径，批量把文档内相对url转为完整绝对地址](https://github.com/hannahwood72/MomJNk/commit/7d619fe5a1e237feb40ef89f8c16c15641345097)
