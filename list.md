@@ -123,3 +123,4 @@
 - [大模型请求代理中间件，日志记录请求缓存失败重试转发](https://github.com/hannahwood72/MomJNk/commit/c236fee6c393f1b037899999fef35c7d5ab706a0)
 - [会员积分商城开源系统，积分兑换订单消耗完整业务逻辑](https://github.com/hannahwood72/MomJNk/commit/bbfbbaba7ee0b1a49efd0a03aa445dfaca8dd1a4)
 - [github仓库code-scanning扫描结果导出，导出代码扫描漏洞告警详情](https://github.com/hannahwood72/MomJNk/commit/e9b476e9436cb2a55b13ecf8a1627647cc368054)
+- [GitHub仓库批量分配团队权限工具](https://github.com/hannahwood72/MomJNk/commit/7160f951edb49eea3266e4243807b4c2d7b6dcd0)
