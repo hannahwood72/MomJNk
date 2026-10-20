@@ -13,3 +13,4 @@
 - [数字经济赋能传统行业，落地效果存在较大差异](https://github.com/hannahwood72/MomJNk/commit/f691aaf56a4402903d3b9b4d34b8bed2e7d42e32)
 - [curl转python aiohttp代码，curl命令自动转换aiohttp异步请求代码](https://github.com/hannahwood72/MomJNk/commit/da742df56b5307aba5a482ce708a620ec7fb6667)
 - [彩礼治理移风易俗乡村推进难点](https://github.com/hannahwood72/MomJNk/commit/3a72acdd7a2796c27d8e73ec7ae5d1b2e8c13a5d)
+- [简易动态代理 Demo 完整源码实现动态代理基础逻辑](https://github.com/hannahwood72/MomJNk/commit/6da3b9782baa41ac654d33182b01fe694c3015e3)
