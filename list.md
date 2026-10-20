@@ -141,3 +141,4 @@
 - [开箱即用数据处理开源脚本 完整源码搭配数据集演示案例](https://github.com/hannahwood72/MomJNk/commit/60336a8c75b5ce711adbb66679e9904ecb5c0164)
 - [Token成本优化，上下文压缩、知识图谱降开销](https://github.com/hannahwood72/MomJNk/commit/15dc61d1d679480b7a2704b56acaf159f89b01b5)
 - [毫秒级简易时间轮源码 完整源码时间轮延时任务](https://github.com/hannahwood72/MomJNk/commit/29fe5c71035e42187fdae9ceae855b0810800eb5)
+- [个人AccessToken泄露，第三方获取全部仓库访问权限](https://github.com/hannahwood72/MomJNk/commit/25ab2af8d5b5c6b537a9c06bc1784bb30cb1564e)
