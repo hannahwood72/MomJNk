@@ -78,3 +78,4 @@
 - [excel 多 sheet 批量处理开源仓库 完整源码多工作表批量读写](https://github.com/hannahwood72/MomJNk/commit/ba7d9fdcb84b2bea29ddb7cd2e561ec9b4ff7e29)
 - [乡村闲置宅基地盘活，民宿康养开发风险](https://github.com/hannahwood72/MomJNk/commit/c269d86432612df4a121d195bdd8e7df84476205)
 - [县域医共体建设，基层看病就医体验提升](https://github.com/hannahwood72/MomJNk/commit/c6882eaee439cff9912241e514abba0ae6641835)
+- [GitHub仓库多License冲突检测工具](https://github.com/hannahwood72/MomJNk/commit/a0803315747859f4b919c1e0f29f83fca8878115)
