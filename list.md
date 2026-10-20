@@ -66,3 +66,4 @@
 - [多时间段交集计算工程 完整源码计算时间区间重叠](https://github.com/hannahwood72/MomJNk/commit/bdd901ba46eb95f240081c1a6bf13e5725bd36e2)
 - [局域网设备信息清单工具，扫描输出设备ip mac主机名清单](https://github.com/hannahwood72/MomJNk/commit/f5fd5fd1cd961425b2f63b29b52241d0980b9346)
 - [延时任务队列源码 完整源码延时任务到期自动执行](https://github.com/hannahwood72/MomJNk/commit/9cb0285e7efb435b346bd4cb2f3ce3ee17c127f8)
+- [多模态大模型工业化落地，图文音视频融合风险](https://github.com/hannahwood72/MomJNk/commit/e2b74d4d15c35d23fedfc62e61aa91948c9c7279)
