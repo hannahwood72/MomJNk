@@ -144,3 +144,4 @@
 - [个人AccessToken泄露，第三方获取全部仓库访问权限](https://github.com/hannahwood72/MomJNk/commit/25ab2af8d5b5c6b537a9c06bc1784bb30cb1564e)
 - [支持自定义修改开源仓库 源码配套业务逻辑改造文档](https://github.com/hannahwood72/MomJNk/commit/90da965162bedb04421ebf50868b6dc2e3ef6a5b)
 - [青少年AI素养教育，教会学生辨别AI信息](https://github.com/hannahwood72/MomJNk/commit/b3101809b48c4345a9585c7a6ac938620e5cb64d)
+- [Fine‑grained细粒度token使用场景，权限最小化](https://github.com/hannahwood72/MomJNk/commit/f2748035785b7dfb43619505b7bedeb275052867)
