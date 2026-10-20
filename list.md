@@ -178,3 +178,4 @@
 - [国产数据库MCP插件接入，权限与限流坑点](https://github.com/hannahwood72/MomJNk/commit/f49c81959dd1b4ae220874dd606271446cf156cc)
 - [白糖周期行情启动供需博弈之下糖价后市走向研判](https://github.com/hannahwood72/MomJNk/commit/9e38e80418abbea724749ad21096c00595729b1f)
 - [GitHub仓库分支保护规则批量配置脚本](https://github.com/hannahwood72/MomJNk/commit/62587c0f320d2736d10d2a2e8bd55f96452c6d98)
+- [日志异常模式挖掘工具，自动聚类相似报错日志条目](https://github.com/hannahwood72/MomJNk/commit/9904a09730a2f5d298a81144b23d97f09089354a)
