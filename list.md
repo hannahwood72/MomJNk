@@ -39,3 +39,4 @@
 - [内网横向移动攻击，零信任如何限制扩散](https://github.com/hannahwood72/MomJNk/commit/d31c6e18bbf5ee0a13983bd80b8b7ff6d55c66af)
 - [协程池实现工程 完整源码协程复用任务调度逻辑](https://github.com/hannahwood72/MomJNk/commit/e7b94496cc2ffedad0d0ecf8d4ef69f43e1eb6c1)
 - [家用AI安防设备规范严防监控数据泄露](https://github.com/hannahwood72/MomJNk/commit/e548841d11a732931c21bf668c1ae8c6c1173468)
+- [程序员岗位焦虑，AI编码工具对岗位真实冲击](https://github.com/hannahwood72/MomJNk/commit/44374874e2c5d421bf31c2dc0d202c4f85305eee)
