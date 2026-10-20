@@ -32,3 +32,4 @@
 - [异步任务处理开源源码 完整源码展示异步执行完整流程](https://github.com/hannahwood72/MomJNk/commit/4817fa3421a47b4d1ab176006fe9d4a6b1b9696f)
 - [贸易壁垒与反倾销增多中国制造出海如何应对挑战](https://github.com/hannahwood72/MomJNk/commit/80ec318283ed4ff29e03dd10c61eb13066304052)
 - [视频批量抽帧生成gif，自定义间隔抽帧输出gif动图](https://github.com/hannahwood72/MomJNk/commit/7b4b459bded7c4421532bf354b8d2d46524b0292)
+- [消费贷切勿违规使用信贷资金使用红线要记牢](https://github.com/hannahwood72/MomJNk/commit/bbc3e36c6803c8c7714a5776be5fecedcaceed8a)
