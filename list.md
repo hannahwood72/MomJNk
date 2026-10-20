@@ -41,3 +41,4 @@
 - [家用AI安防设备规范严防监控数据泄露](https://github.com/hannahwood72/MomJNk/commit/e548841d11a732931c21bf668c1ae8c6c1173468)
 - [程序员岗位焦虑，AI编码工具对岗位真实冲击](https://github.com/hannahwood72/MomJNk/commit/44374874e2c5d421bf31c2dc0d202c4f85305eee)
 - [MCP Server第三方组件供应链投毒风险](https://github.com/hannahwood72/MomJNk/commit/9074a9f5150c1cd35e39ebea721caf59bb904c03)
+- [人形机器人产业链，软件栈滞后硬件发展现状](https://github.com/hannahwood72/MomJNk/commit/120af84315c4d440e1530ca7cfbf7b8fb99ab70b)
