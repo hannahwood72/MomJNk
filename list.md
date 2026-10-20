@@ -130,3 +130,4 @@
 - [URL 参数编解码开源工程 完整源码 url 解析拼接编码处理](https://github.com/hannahwood72/MomJNk/commit/322d19db930739c9ac4c96421a92213002716e58)
 - [高效业务实战开源源码合集 完整工程附带业务二次开发样例](https://github.com/hannahwood72/MomJNk/commit/fadb58ef3930d92bf0a1e077c44177f58defb3a8)
 - [url查询参数完整移除工具，彻底清除url全部查询参数字符串](https://github.com/hannahwood72/MomJNk/commit/0efcc37e1976cea61f8cbda6e996ec4f1a6db2d8)
+- [Secret扫描误报，配置样例字符串识别为密钥](https://github.com/hannahwood72/MomJNk/commit/e42316877d6a1c6059298e16d14ddcad0778a840)
