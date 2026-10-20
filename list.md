@@ -111,3 +111,4 @@
 - [数据要素市场化提速数据确权交易产业迎来新机遇](https://github.com/hannahwood72/MomJNk/commit/95e0aca0f70a5b6a27b0e07dafae9b03ec177f5f)
 - [AI项目真实收益评估，摒弃跑分侧重业务指标](https://github.com/hannahwood72/MomJNk/commit/f1fc913e636f2554992188ab1a59539e494356db)
 - [热门赛道业绩亮眼，股价却持续走弱](https://github.com/hannahwood72/MomJNk/commit/19b4336172413921444a314536f5ca7b6e6fd5e9)
+- [CSV批量转Parquet脚本，数据集格式转换工具](https://github.com/hannahwood72/MomJNk/commit/2b9a66e55d2f24901aa25a4f1df5c163963719ec)
