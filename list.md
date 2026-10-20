@@ -164,3 +164,4 @@
 - [面向数据开发开源工具方案 源码资源附带完整注释说明](https://github.com/hannahwood72/MomJNk/commit/67747349a8414a79cbb22e259424d22806b59d9d)
 - [pdf批量删除指定页面，按页码列表批量删除pdf页面](https://github.com/hannahwood72/MomJNk/commit/95ffd5cbc25be823e98004293270adf6da15bdfb)
 - [Agent离线自治模式，断网环境自主执行业务任务](https://github.com/hannahwood72/MomJNk/commit/d8822e2d9587ad93e13763012341047a83b13c42)
+- [支持二次改造开源项目仓库 源码资源配套业务重构指南](https://github.com/hannahwood72/MomJNk/commit/57f84ce495822f4be90c94c514ed53667d5808a3)
