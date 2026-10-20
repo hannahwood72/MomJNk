@@ -9,3 +9,4 @@
 - [数字游民配套政策完善，跨地域参保就业难题](https://github.com/hannahwood72/MomJNk/commit/7e924dc3bdac94e9d7c10f3b6ee571fd3cd35b48)
 - [业务错误码枚举管理源码 完整源码集中维护业务错误编码](https://github.com/hannahwood72/MomJNk/commit/f75c08b0f94001b64baf7e22db52af0e0f2f789f)
 - [经济周期之下，企业的现金流远比账面利润更加关键](https://github.com/hannahwood72/MomJNk/commit/1922622be24721c38adeeb52d3e4cd62c2f47c1b)
+- [研发提效辅助开源仓库 完整源码提供参数调优实践案例](https://github.com/hannahwood72/MomJNk/commit/5e4eb2ad11f8783d21af67c0dda7e61cd7b50087)
