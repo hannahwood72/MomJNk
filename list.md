@@ -158,3 +158,4 @@
 - [各类锁场景实战源码 完整源码演示互斥锁读写锁使用案例](https://github.com/hannahwood72/MomJNk/commit/9ee0bb1cb718476fb4be09cf1a155aba929f153d)
 - [轻量数据处理开源代码库 二次开发指南与数据导入导出示例](https://github.com/hannahwood72/MomJNk/commit/7db93b0d1026e2b47c5e962fc3f2014d656306e8)
 - [GitHub 公开仓库中文技术文档 SEO 实战经验](https://github.com/hannahwood72/MomJNk/commit/c2fb8d8d34a9bb2c0ebf8e13d7c63939cb808f16)
+- [存款利率持续下行普通人如何配置储蓄](https://github.com/hannahwood72/MomJNk/commit/8c2d6d00edb85a6b96d414bdd466c8c26cccc827)
