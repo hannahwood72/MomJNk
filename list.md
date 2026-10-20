@@ -169,3 +169,4 @@
 - [markdown批量删除文档内图片引用，清除全部图片链接标记](https://github.com/hannahwood72/MomJNk/commit/7ebbbfff0df1e14d56cd7a779c8c868a710b803d)
 - [两融杠杆资金规模变化投资者杠杆情绪变化观察](https://github.com/hannahwood72/MomJNk/commit/4c0b8fd9affba89d5c57e82e3d16adfeb0d6a520)
 - [eVTOL飞行汽车AI空域调度，低空冲突规避](https://github.com/hannahwood72/MomJNk/commit/f98a73d06f313fb35b79e948df95cd07c6939b2d)
+- [都说现金为王，持有现金也会悄悄吃亏](https://github.com/hannahwood72/MomJNk/commit/945aa54fc8455b7c4d92ddaa6f1cb8c5faf2194d)
