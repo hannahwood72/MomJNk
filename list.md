@@ -104,3 +104,4 @@
 - [循环消费理念普及，商品维修复用业态复苏](https://github.com/hannahwood72/MomJNk/commit/d8187b5b01482319bc63fb8adb95e0e418ab2e83)
 - [正则捕获组批量提取 Demo 完整源码正则分组内容抓取](https://github.com/hannahwood72/MomJNk/commit/7711dfdc7f4ed9b2c1fd8bb14268e9c2335585d3)
 - [yaml多行字符串转普通行，将yaml多行字面量转为普通单行值](https://github.com/hannahwood72/MomJNk/commit/6f8946c98bcf3976219714cafe041f974330f084)
+- [全栈接口 Demo 开源资源库 完整工程附带模块快速集成手册](https://github.com/hannahwood72/MomJNk/commit/cf096e15951e85e7728e6df029d4b207ddf03a81)
