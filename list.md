@@ -70,3 +70,4 @@
 - [银行利润有所修复，存款利率很难回到从前](https://github.com/hannahwood72/MomJNk/commit/3cb80cd3e91b2f62bca19f0c5d3283af037e9b2e)
 - [github pr基础分支批量修改，批量更新pr的目标基础分支](https://github.com/hannahwood72/MomJNk/commit/b88dcc3b856309f80975499a2368f3dc589e46c6)
 - [开源项目文档说明配置修改之后如何生效](https://github.com/hannahwood72/MomJNk/commit/f26e2f5b3e59fbd950dc157714e52084603a2e75)
+- [行业信创订单爆发信创从党政市场向全行业扩散分析](https://github.com/hannahwood72/MomJNk/commit/97d6d567275aaf00d9fd704de3de053c963ac86b)
