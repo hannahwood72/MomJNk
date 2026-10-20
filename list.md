@@ -89,3 +89,4 @@
 - [时区差异跨国协作，跨时区PR review效率低下](https://github.com/hannahwood72/MomJNk/commit/6b7f37ac074d23d3cefd76afde56be16f3a3cdf6)
 - [5G‑A技术商用，工业互联网、低时延业务落地](https://github.com/hannahwood72/MomJNk/commit/e0ef4d60f2c24b9e8980fcf34fd793f2b4a19428)
 - [公共充电网络全覆盖，老旧小区充电改造难题](https://github.com/hannahwood72/MomJNk/commit/bbea253027df6a55a6518b6097c99443ebb3f5b0)
+- [企业出海，既是机遇，也面临海外经营各类风险](https://github.com/hannahwood72/MomJNk/commit/ebb9f123d8e8188ae8807f7769cc83e642841942)
