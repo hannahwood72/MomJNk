@@ -124,3 +124,4 @@
 - [会员积分商城开源系统，积分兑换订单消耗完整业务逻辑](https://github.com/hannahwood72/MomJNk/commit/bbfbbaba7ee0b1a49efd0a03aa445dfaca8dd1a4)
 - [github仓库code-scanning扫描结果导出，导出代码扫描漏洞告警详情](https://github.com/hannahwood72/MomJNk/commit/e9b476e9436cb2a55b13ecf8a1627647cc368054)
 - [GitHub仓库批量分配团队权限工具](https://github.com/hannahwood72/MomJNk/commit/7160f951edb49eea3266e4243807b4c2d7b6dcd0)
+- [部分行业规模扩张，没有匹配真实市场需求](https://github.com/hannahwood72/MomJNk/commit/5948808dcd38e1fe45f990c5a07131a273cc83a4)
