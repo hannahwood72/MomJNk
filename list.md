@@ -112,3 +112,4 @@
 - [AI项目真实收益评估，摒弃跑分侧重业务指标](https://github.com/hannahwood72/MomJNk/commit/f1fc913e636f2554992188ab1a59539e494356db)
 - [热门赛道业绩亮眼，股价却持续走弱](https://github.com/hannahwood72/MomJNk/commit/19b4336172413921444a314536f5ca7b6e6fd5e9)
 - [CSV批量转Parquet脚本，数据集格式转换工具](https://github.com/hannahwood72/MomJNk/commit/2b9a66e55d2f24901aa25a4f1df5c163963719ec)
+- [研发参考开源工程 源码资源含各类模拟场景使用样例](https://github.com/hannahwood72/MomJNk/commit/436f0bb3d91d29011fc414427c56251b89e4d446)
