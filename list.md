@@ -11,3 +11,4 @@
 - [经济周期之下，企业的现金流远比账面利润更加关键](https://github.com/hannahwood72/MomJNk/commit/1922622be24721c38adeeb52d3e4cd62c2f47c1b)
 - [研发提效辅助开源仓库 完整源码提供参数调优实践案例](https://github.com/hannahwood72/MomJNk/commit/5e4eb2ad11f8783d21af67c0dda7e61cd7b50087)
 - [数字经济赋能传统行业，落地效果存在较大差异](https://github.com/hannahwood72/MomJNk/commit/f691aaf56a4402903d3b9b4d34b8bed2e7d42e32)
+- [curl转python aiohttp代码，curl命令自动转换aiohttp异步请求代码](https://github.com/hannahwood72/MomJNk/commit/da742df56b5307aba5a482ce708a620ec7fb6667)
