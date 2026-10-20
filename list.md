@@ -50,3 +50,4 @@
 - [文旅消费人山人海，绝大部分红利归于少数人](https://github.com/hannahwood72/MomJNk/commit/4d0d50204ab0cca379fdde161fadf60195633cc6)
 - [CQRS读写分离模式，业务落地一致性挑战](https://github.com/hannahwood72/MomJNk/commit/fbad7d08387dfd1706f5057899b5d2eb2e57eaea)
 - [户籍与公共服务进一步脱钩，新市民权益保障](https://github.com/hannahwood72/MomJNk/commit/b60386d5080e788cd0a308ed71f65be1dc822905)
+- [极简脚本工具开源合集 完整源码适配多种业务系统集成](https://github.com/hannahwood72/MomJNk/commit/dd59dc5d69e13a393975e9892fa8b0709788820d)
