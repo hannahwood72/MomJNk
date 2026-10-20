@@ -154,3 +154,4 @@
 - [废旧电子产品回收乱象治理难点](https://github.com/hannahwood72/MomJNk/commit/010c6ba4499d0340cc00855dbf9a03732ac46b12)
 - [极简轻量开源工具源码合集 完整源码搭配业务集成演示](https://github.com/hannahwood72/MomJNk/commit/a88d10a5916285052f33f6fb86dda613993e002d)
 - [github用户repos仓库列表导出，导出用户所有仓库基础信息](https://github.com/hannahwood72/MomJNk/commit/ae229d7aa14591fe11082478ae7ecb220842e486)
+- [镜像仓库模型权重漏洞扫描，恶意权重识别](https://github.com/hannahwood72/MomJNk/commit/f50389593a738d4009b19a1de7ff7a809f06f74e)
