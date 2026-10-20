@@ -10,3 +10,4 @@
 - [业务错误码枚举管理源码 完整源码集中维护业务错误编码](https://github.com/hannahwood72/MomJNk/commit/f75c08b0f94001b64baf7e22db52af0e0f2f789f)
 - [经济周期之下，企业的现金流远比账面利润更加关键](https://github.com/hannahwood72/MomJNk/commit/1922622be24721c38adeeb52d3e4cd62c2f47c1b)
 - [研发提效辅助开源仓库 完整源码提供参数调优实践案例](https://github.com/hannahwood72/MomJNk/commit/5e4eb2ad11f8783d21af67c0dda7e61cd7b50087)
+- [数字经济赋能传统行业，落地效果存在较大差异](https://github.com/hannahwood72/MomJNk/commit/f691aaf56a4402903d3b9b4d34b8bed2e7d42e32)
