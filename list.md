@@ -48,3 +48,4 @@
 - [海外高利率环境延续国内货币政策保持独立性如何平衡](https://github.com/hannahwood72/MomJNk/commit/8be689186a8f231286f75698c34cf900f3be148a)
 - [恶意样本测试仓库，上传病毒样本账号受限](https://github.com/hannahwood72/MomJNk/commit/8e73c0d8bb7d86870569180b95b5982b6488f7ea)
 - [文旅消费人山人海，绝大部分红利归于少数人](https://github.com/hannahwood72/MomJNk/commit/4d0d50204ab0cca379fdde161fadf60195633cc6)
+- [CQRS读写分离模式，业务落地一致性挑战](https://github.com/hannahwood72/MomJNk/commit/fbad7d08387dfd1706f5057899b5d2eb2e57eaea)
