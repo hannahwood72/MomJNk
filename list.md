@@ -57,3 +57,4 @@
 - [简易 http 静态资源缓存开源仓库 完整源码静态文件缓存控制](https://github.com/hannahwood72/MomJNk/commit/5a14c27e3bc4dcfd72313d0ee0b4d4f3b8ff71a4)
 - [位图 bitmap 实现开源仓库 完整源码位图大数据标记存储](https://github.com/hannahwood72/MomJNk/commit/68dfeb53d96157c89dbe87c207c21c7367962388)
 - [批量文本统计分析开源工程 完整源码统计行数字符数词频](https://github.com/hannahwood72/MomJNk/commit/9dd6593835828e4e85af3b567817a2ddc402314d)
+- [正则批量文件替换工具，支持多行正则目录内批量替换](https://github.com/hannahwood72/MomJNk/commit/9652a67da9d6091ae650acd94cf363aff0bb2988)
