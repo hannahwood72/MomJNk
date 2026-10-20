@@ -128,3 +128,4 @@
 - [GitHub仓库Release根据Tag自动生成脚本](https://github.com/hannahwood72/MomJNk/commit/e9eda6d0b3078494fc577869c1fe248f8fb56bac)
 - [窗口信息抓取工具，获取窗口标题进程坐标尺寸输出](https://github.com/hannahwood72/MomJNk/commit/4e4aa1b0c9dad7b2b9e919cc3d0e91f0f5444776)
 - [URL 参数编解码开源工程 完整源码 url 解析拼接编码处理](https://github.com/hannahwood72/MomJNk/commit/322d19db930739c9ac4c96421a92213002716e58)
+- [高效业务实战开源源码合集 完整工程附带业务二次开发样例](https://github.com/hannahwood72/MomJNk/commit/fadb58ef3930d92bf0a1e077c44177f58defb3a8)
