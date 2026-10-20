@@ -81,3 +81,4 @@
 - [GitHub仓库多License冲突检测工具](https://github.com/hannahwood72/MomJNk/commit/a0803315747859f4b919c1e0f29f83fca8878115)
 - [宏观经济的好转，需要时间传导到普通人的日常生活](https://github.com/hannahwood72/MomJNk/commit/be4c6489b545482f7db917a378146697f0cbb0b2)
 - [极简消息队列脚本开源工具合集 完整源码搭配系统集成演示](https://github.com/hannahwood72/MomJNk/commit/8597a84645358ce00a864d1768bc4baee992ef81)
+- [静态站点全自动部署工具，监听代码变更自动构建发布](https://github.com/hannahwood72/MomJNk/commit/ba559dd287e8e8f812676e454f35310ddd0b5fe5)
