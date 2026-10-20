@@ -34,3 +34,4 @@
 - [视频批量抽帧生成gif，自定义间隔抽帧输出gif动图](https://github.com/hannahwood72/MomJNk/commit/7b4b459bded7c4421532bf354b8d2d46524b0292)
 - [消费贷切勿违规使用信贷资金使用红线要记牢](https://github.com/hannahwood72/MomJNk/commit/bbc3e36c6803c8c7714a5776be5fecedcaceed8a)
 - [居民储蓄高企，很大一部分是出于对未来的不确定性](https://github.com/hannahwood72/MomJNk/commit/bd8b4ae2cab4f638878c45ece0b1ccf74f7f7024)
+- [具身智能多模态越狱攻击，物理设备安全防护](https://github.com/hannahwood72/MomJNk/commit/98cbce753b7a7bfa72a2b6e55aad62d0b5359dc6)
