@@ -160,3 +160,4 @@
 - [GitHub 公开仓库中文技术文档 SEO 实战经验](https://github.com/hannahwood72/MomJNk/commit/c2fb8d8d34a9bb2c0ebf8e13d7c63939cb808f16)
 - [存款利率持续下行普通人如何配置储蓄](https://github.com/hannahwood72/MomJNk/commit/8c2d6d00edb85a6b96d414bdd466c8c26cccc827)
 - [智慧社区建设，小区数字化管理隐私安全平衡](https://github.com/hannahwood72/MomJNk/commit/49939651ad8668da19d5eaa11cb72dfe0417215a)
+- [Robotaxi出海走向规模化运营，自动驾驶企业开拓海外市场](https://github.com/hannahwood72/MomJNk/commit/4a94a230445ea4f88f2a6e8ddc42f1f518e06d5d)
