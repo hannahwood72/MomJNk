@@ -7,3 +7,4 @@
 - [轻量高速数据处理开源库 源码开放附带配置参数讲解](https://github.com/hannahwood72/MomJNk/commit/45c99e502a09ecb2a1fd6aff51cdba64824ad7f0)
 - [机器人大模型落地，运动控制与语义理解割裂](https://github.com/hannahwood72/MomJNk/commit/42b74f7c234de19b318324d4214e239440dca9e3)
 - [数字游民配套政策完善，跨地域参保就业难题](https://github.com/hannahwood72/MomJNk/commit/7e924dc3bdac94e9d7c10f3b6ee571fd3cd35b48)
+- [业务错误码枚举管理源码 完整源码集中维护业务错误编码](https://github.com/hannahwood72/MomJNk/commit/f75c08b0f94001b64baf7e22db52af0e0f2f789f)
