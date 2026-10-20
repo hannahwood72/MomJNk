@@ -114,3 +114,4 @@
 - [CSV批量转Parquet脚本，数据集格式转换工具](https://github.com/hannahwood72/MomJNk/commit/2b9a66e55d2f24901aa25a4f1df5c163963719ec)
 - [研发参考开源工程 源码资源含各类模拟场景使用样例](https://github.com/hannahwood72/MomJNk/commit/436f0bb3d91d29011fc414427c56251b89e4d446)
 - [代码改动风险简易评估脚本，比对变更给出风险检查提示](https://github.com/hannahwood72/MomJNk/commit/06c789942a3dd205608a818d81b8e764a1b98b7e)
+- [轻量级开源代码仓库 二次开发参考文档与部署实操](https://github.com/hannahwood72/MomJNk/commit/495b269a49607367ca7596feb544afef046dd6dc)
