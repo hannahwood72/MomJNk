@@ -17,3 +17,4 @@
 - [AI项目失败复盘，大量AI试点无法规模化根因](https://github.com/hannahwood72/MomJNk/commit/70aa81fc06c25fcdb5420dbb4082ba2f944e8556)
 - [中小企业融资难问题，仍是现实的发展堵点](https://github.com/hannahwood72/MomJNk/commit/c8ce9a74f3c1c21be12dcfb63cb319ad10b66567)
 - [智慧社区人脸识别治理，个人生物信息保护](https://github.com/hannahwood72/MomJNk/commit/9b96b04cd2aa65360a6de9adca0cdbd9f9d54fac)
+- [VitePress 生成 Sitemap 实现百度快速收录实操](https://github.com/hannahwood72/MomJNk/commit/e06c6cb39fc2d5ac815046a36c04b1829e964546)
