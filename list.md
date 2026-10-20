@@ -145,3 +145,4 @@
 - [支持自定义修改开源仓库 源码配套业务逻辑改造文档](https://github.com/hannahwood72/MomJNk/commit/90da965162bedb04421ebf50868b6dc2e3ef6a5b)
 - [青少年AI素养教育，教会学生辨别AI信息](https://github.com/hannahwood72/MomJNk/commit/b3101809b48c4345a9585c7a6ac938620e5cb64d)
 - [Fine‑grained细粒度token使用场景，权限最小化](https://github.com/hannahwood72/MomJNk/commit/f2748035785b7dfb43619505b7bedeb275052867)
+- [汽车一体化压铸普及零部件行业格局迎来重构](https://github.com/hannahwood72/MomJNk/commit/7c8deec5ffdcf02c457e91daeb111d0b758712dc)
