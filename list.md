@@ -5,3 +5,4 @@
 - [银行信用卡业务整改行业降费率规范分期收费乱象](https://github.com/hannahwood72/MomJNk/commit/581aa2209cc6d8838a02bac35391886411cac0ea)
 - [配置模板变量渲染 Demo 完整源码配置文件模板渲染](https://github.com/hannahwood72/MomJNk/commit/d47527f72b7eaf170125cd405032d4037b7008d1)
 - [轻量高速数据处理开源库 源码开放附带配置参数讲解](https://github.com/hannahwood72/MomJNk/commit/45c99e502a09ecb2a1fd6aff51cdba64824ad7f0)
+- [机器人大模型落地，运动控制与语义理解割裂](https://github.com/hannahwood72/MomJNk/commit/42b74f7c234de19b318324d4214e239440dca9e3)
