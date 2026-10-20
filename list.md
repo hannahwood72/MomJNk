@@ -96,3 +96,4 @@
 - [实体经济的利润空间，受到上游原材料成本挤压](https://github.com/hannahwood72/MomJNk/commit/6678331dc16f20409cc34424a5cebc75ddc31861)
 - [模块化接口开源项目 快速上手配置与模拟请求样例](https://github.com/hannahwood72/MomJNk/commit/eab240daa32b34be5fe2870f76dc2d8c5cedb18a)
 - [数据清洗脚本开源仓库 可运行源码附带数据处理演示](https://github.com/hannahwood72/MomJNk/commit/735e13618234054719265715b1fe528e25ea8bdc)
+- [Rust语言大规模落地，系统软件重写浪潮利弊剖析](https://github.com/hannahwood72/MomJNk/commit/a8d315f3f94ecefe95592b2db12fedb7e3e2ae8e)
