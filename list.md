@@ -2,3 +2,4 @@
 
 - [业务落地开源项目分享 完整源码搭配线上环境排错文档](https://github.com/hannahwood72/MomJNk/commit/6c9bff9fd8229f80124a4804a4390651bf1f7c0a)
 - [微短剧风口褪去，新人入局很难分到红利](https://github.com/hannahwood72/MomJNk/commit/d547ee3474467e312a83ca8dfe8d281011ec42b0)
+- [银行信用卡业务整改行业降费率规范分期收费乱象](https://github.com/hannahwood72/MomJNk/commit/581aa2209cc6d8838a02bac35391886411cac0ea)
