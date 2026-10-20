@@ -22,3 +22,4 @@
 - [外贸数据屡创新高，底层从业者很难分享收益](https://github.com/hannahwood72/MomJNk/commit/ad54975ecaf0346db82005bc9aae571bc287416d)
 - [多种排序算法实现工程 完整源码冒泡快速归并排序示例](https://github.com/hannahwood72/MomJNk/commit/4a1ae4a7e0d020c326a92a05337054b9f6ca3f81)
 - [养老资金来了，不要幻想单边大牛市](https://github.com/hannahwood72/MomJNk/commit/bc2a482cddfe689ce4661501037a9e92622a9baa)
+- [普惠商业保险迭代赔付率提升现实难题](https://github.com/hannahwood72/MomJNk/commit/057f76d765e8a9914f7bff66356779d8a457ac76)
