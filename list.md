@@ -98,3 +98,4 @@
 - [数据清洗脚本开源仓库 可运行源码附带数据处理演示](https://github.com/hannahwood72/MomJNk/commit/735e13618234054719265715b1fe528e25ea8bdc)
 - [Rust语言大规模落地，系统软件重写浪潮利弊剖析](https://github.com/hannahwood72/MomJNk/commit/a8d315f3f94ecefe95592b2db12fedb7e3e2ae8e)
 - [产业集群发展，集群内部配套小企业生存压力突出](https://github.com/hannahwood72/MomJNk/commit/9b0c34c0d74d37534c845ba754c5a9c8a6f62605)
+- [卫星遥感大模型，地物变化实时检测工程难点](https://github.com/hannahwood72/MomJNk/commit/1173085692df9f62794cef8abd7712ce5d069f99)
