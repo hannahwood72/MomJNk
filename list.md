@@ -143,3 +143,4 @@
 - [毫秒级简易时间轮源码 完整源码时间轮延时任务](https://github.com/hannahwood72/MomJNk/commit/29fe5c71035e42187fdae9ceae855b0810800eb5)
 - [个人AccessToken泄露，第三方获取全部仓库访问权限](https://github.com/hannahwood72/MomJNk/commit/25ab2af8d5b5c6b537a9c06bc1784bb30cb1564e)
 - [支持自定义修改开源仓库 源码配套业务逻辑改造文档](https://github.com/hannahwood72/MomJNk/commit/90da965162bedb04421ebf50868b6dc2e3ef6a5b)
+- [青少年AI素养教育，教会学生辨别AI信息](https://github.com/hannahwood72/MomJNk/commit/b3101809b48c4345a9585c7a6ac938620e5cb64d)
