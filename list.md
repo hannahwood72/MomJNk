@@ -174,3 +174,4 @@
 - [消息死信队列模拟开源源码 完整源码演示死信消息处理](https://github.com/hannahwood72/MomJNk/commit/751284c1693b74a5b737b637f011366c284be0bd)
 - [生育成本社会化分担，企业生育成本补偿机制](https://github.com/hannahwood72/MomJNk/commit/fb7bf4ee30c109f5c75f122936a407f9cddf0e98)
 - [颜色批量转换脚本，hex rgb hsl颜色格式互相批量转换](https://github.com/hannahwood72/MomJNk/commit/b63d9421b8e1815931d785a1bac16aec6b28bf30)
+- [熔断降级模拟工程 完整源码熔断状态流转业务降级返回](https://github.com/hannahwood72/MomJNk/commit/847bc3a2fa76d6529d46610bdfdcca41019ed73d)
