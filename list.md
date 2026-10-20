@@ -187,3 +187,4 @@
 - [跨平台数据库模拟开源组件 源码资源含多环境测试演示工程](https://github.com/hannahwood72/MomJNk/commit/b21dc3b41431be2236e02b91020182b9bad528d2)
 - [城市微更新资金来源多元渠道](https://github.com/hannahwood72/MomJNk/commit/d52ec951b2d0d19f8b00aa4e0f83373d38697db5)
 - [集合数据操作开源工程 完整源码实现集合常用运算处理](https://github.com/hannahwood72/MomJNk/commit/05cce11fa89dc1fc821a2ad9f01da8ec270520aa)
+- [家庭应急储备认知普及现实短板](https://github.com/hannahwood72/MomJNk/commit/4fb383618a3c172ea0615f91844f7f46f5eef65d)
